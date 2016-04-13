@@ -17,3 +17,11 @@ json-server db.json
 ##正式开启本Demo
 
 npm start
+
+##文档链接
+
+[RefluxJS](https://github.com/reflux/refluxjs)
+
+[你为什么应该试一试Reflux?](http://www.open-open.com/news/view/e652c6)
+
+[JSON Server](https://github.com/typicode/json-server)
