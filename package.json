@@ -1,0 +1,34 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "An bookmarks example of React/Reflux",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server --progress --watch"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.*",
+    "babel-loader": "^5.3.*",
+    "webpack": "^1.12.*",
+    "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.7.4",
+    "jquery": "^2.2.3",
+    "moment": "^2.12.0",
+    "promise": "^7.1.1",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "reflux": "^0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bookmarks_reflux"
+  },
+  "keywords": [
+    "React",
+    "Reflux"
+  ],
+  "author": "lucky8jx",
+  "license": "ISC"
+}
